@@ -1,31 +1,61 @@
-# Hi there! 👋
+# May the Tact be with you! ✊
 
-<a href="https://www.octolab.org/" target="_blank">  
+<a href="https://tact.run/" target="_blank">  
   <img align="right" width="350" alt="OctoLab's mascot"  
-       src="https://cdn.octolab.org/geek/octolab.png" />  
+       src="https://cdn.octolab.org/hero/zorro.png" />  
 </a>
 
-We are a developer-centric community of open-source enthusiasts. Our mission is to identify the unique needs during development and find the most fitting solutions for them.
+In the modern world, maintaining focused attention is increasingly challenging.
+The fast pace, remote work, constant calls, and stress devalue our time,
+attention, concentration, and tranquility. At [OctoLab][], we strive to find
+solutions that allow us to regain control over these lost values.
 
-## Solution discovery
+## Time
 
-🔭 Our journey of discovery is thoroughly documented [here][Octospot]. The finest open-source solutions we've encountered are curated at [AwesomenOSS][]. And for those challenges, if we haven't found an existing solution, we create our own and share them with everyone.
+Allocating and managing time effectively is crucial. Good time management is
+critical to meeting deadlines and reducing stress. In a world where
+multitasking is often mistaken for productivity, it's important to prioritize
+tasks and break them into manageable segments, ensuring that each job
+receives the dedicated time it deserves.
 
-## Automation
+## Attention
 
-🤖 We have a distaste for repetition, especially in mundane tasks. That's why, in [this project][Octomation], we've compiled everything related to the automation of routine tasks and the templating of approaches and solutions.
+Directing focus toward the task at hand involves minimizing distractions and
+maintaining a clear focus on the goals and requirements of the project.
+Creating a workspace that encourages concentration through noise-canceling
+headphones, designated quiet hours, or digital tools that limit notifications
+during critical work periods is vital in an environment rife with interruptions.
 
-## Product development
+## Concentration
 
-🎁 We also focus on developing human-centric products to enhance our users' quality of life. You can explore our product sandbox [here][Octopods]. Our experimental endeavors are housed in separate organizations: [LifeOS][], [Sparkle][], and [Tact][].
+Engaging deeply with the work means immersing yourself in problem-solving,
+leading to more innovative solutions and efficient coding. This deep engagement
+is critical during complex tasks with a high cost of errors. Techniques like
+time-boxing can enhance concentration during these critical phases.
 
-[AwesomenOSS]:  https://awesomenoss.octolab.org/
-[Octomation]:   https://github.com/octomation
-[Octopods]:     https://github.com/octopot
-[Octospot]:     https://github.com/under-the-hood
-[LifeOS]:       https://github.com/lifeosm
-[Tact]:         https://github.com/tact-app
-[Sparkle]:      https://github.com/withsparkle
+## Tranquility
+
+Maintaining a calm and composed mindset in software development's fast-paced and
+often stressful world is crucial. Managing stress, keeping a balanced perspective,
+and ensuring decision-making are not clouded by anxiety or haste is essential.
+Regular mindfulness practices, breaks, and a supportive work culture help maintain
+this tranquility, fostering an environment where creativity and productivity thrive.
+
+**Tact** is crafted with these four essential aspects of our lives in mind,
+aiming to provide a comprehensive user experience. Imagine having
+the functionalities of [Todoist][], [Cron][], [Fellow][], [Calendly][], and [Rize][]
+in one package. And the best part? It's open-source, local, and private!
+This integration not only streamlines your workflow but also respects your data privacy
+and autonomy, ensuring you're completely in control of your time, attention,
+concentration, and tranquility.
+
+[OctoLab]:  https://www.octolab.org/
+[Tact]:     https://tact.run/
+[Todoist]:  https://todoist.com/
+[Cron]:     https://cron.com/
+[Fellow]:   https://fellow.app/
+[Calendly]: https://calendly.com/
+[Rize]:     https://rize.io/
 
 <img align="right" alt="profile views"
-     src="https://komarev.com/ghpvc/?username=octolab&label=views&color=grey" />
+     src="https://komarev.com/ghpvc/?username=tact-app&label=views&color=grey" />
